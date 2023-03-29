@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-earthquake-app/static/css/main.e6c13ad2.css",
+    "main.js": "/my-earthquake-app/static/js/main.46a3490c.js",
+    "static/js/787.4a6a738a.chunk.js": "/my-earthquake-app/static/js/787.4a6a738a.chunk.js",
+    "index.html": "/my-earthquake-app/index.html",
+    "main.e6c13ad2.css.map": "/my-earthquake-app/static/css/main.e6c13ad2.css.map",
+    "main.46a3490c.js.map": "/my-earthquake-app/static/js/main.46a3490c.js.map",
+    "787.4a6a738a.chunk.js.map": "/my-earthquake-app/static/js/787.4a6a738a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.46a3490c.js"
+  ]
+}
